@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QYZvDQuMZgjSlfykGFVnWaDeTfKSWHorFMZ6Z8e/JOY=",
+  "Source": "BookstoreManager.WebApi",
+  "BasePath": "_content/BookstoreManager.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
